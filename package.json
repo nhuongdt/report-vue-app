@@ -11,9 +11,12 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "axios": "^0.21.0",
     "bootstrap": "^4.5.3",
     "bootstrap-vue": "^2.18.1",
+    "flexmonster": "^2.8.18-1",
     "vue": "^2.5.2",
+    "vue-flexmonster": "^2.8.18-1",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
